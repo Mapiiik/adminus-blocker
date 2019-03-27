@@ -1,0 +1,13 @@
+<?php
+// Adminus CRM connection
+define('API_HOST', 'https://adminus/api/');
+define('API_USER', 'api-remote');
+define('API_PASS', '');
+
+define('MT_API_HOSTS', array('0.0.0.0'));
+define('MT_API_USER', 'blocker');
+define('MT_API_PASS', '');
+define('MT_API_ADDRESS_LIST', 'DODGERS');
+
+define('BLOCKED_STATES', array('Blokováno', 'Pozastaveno', 'Vymáhání'));
+?>
